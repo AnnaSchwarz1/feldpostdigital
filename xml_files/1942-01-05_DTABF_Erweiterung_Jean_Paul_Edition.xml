@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Jean_Paul.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" 
+    xml:id="JP-UB1197" type="context">
+    <teiHeader>
+        <fileDesc> 
+            <titleStmt>
+                <title type="main">1942-01-05</title>
+                <title type="year">1942</title>
+                <title type="subtitle">Liebe Mutter!</title>
+                <editor> 
+                    <persName>Anna Roth</persName>
+                </editor>
+                
+                <respStmt>
+                    <resp>
+                        Transkription und Textmodellierung der zugrundeliegenden Feldpostbriefe sowie Entwicklung und Herausgabe der digitalen Edition 
+                    </resp>
+                    <persName>Anna Roth</persName>
+                </respStmt>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>Digitale Edition von Feldpostbriefen des zweiten Weltkrieges und aus russischer Kriegsgefangenschaft des Wehrmachtssoldaten Hans Salisco. </edition>
+            </editionStmt>
+            
+            <publicationStmt> 
+                <publisher>
+                    <email>
+                        anna_roth@posteo.de
+                    </email>
+                    <orgName>Universität Stuttgart</orgName>
+                    <address>
+                        <addrLine>Keplerstraße 7, 70174 Stuttgart</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace>Stuttgart</pubPlace>
+                <date>2022</date>
+                <availability> 
+                    <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/"><p>Distributed under the Creative Commons Attribution-Non Commercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) Licence</p></licence>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note>
+                     Die Briefe wurden vorlagengetreu transkribiert und entspreche n 
+                        den <ref target="https://www.deutschestextarchiv.de/doku/richtlinien">DTA-Transkriptionsrichtlinien</ref>.
+                    Das Textkorpus wurde TEI-konform (TEI P5) in XML nach dem <ref target="https://github.com/telota/jean_paul_briefe/blob/main/umfeldbriefe/ediarum.JP-UMFELDBRIEFE.rng">Schema für Briefe aus Jean Pauls Umfeld</ref> kodiert, 
+                        welches im Rahmen der digitalen Edition <ref target="https://www.jeanpaul-edition.de/start.html">Jean Paul - Sämtliche Briefe digital</ref> erstellt wurde. 
+                        Das Schema stellt eine für Briefeditionen erweiterte Fassung des <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformats</ref> dar.
+                </note>
+            </notesStmt>
+            
+            <sourceDesc> 
+                <bibl>
+                    <title> Anna Roth: Es grüßt euch euer braves Hanserl. 
+                        Digitale Edition von Feldpostbriefen des zweiten Weltkrieges und aus russischer 
+                        Kriegsgefangenschaft des Wehrmachtssoldaten Hans Salisco, Stuttgart 2022. </title>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <collection>Privatsammlung</collection>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc> 
+            
+        </fileDesc>  
+        
+        <profileDesc>            
+            <correspDesc>                
+                <correspAction type="sent">
+                    <persName>Hans Salisco</persName>
+                    <placeName>Admont</placeName>
+                    <date>05.01.1942</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Mathilde Salisco</persName>
+                </correspAction>
+                <correspContext n="edition">
+                    <!-- <ptr type="prev" target=""/> -->           
+                    <ptr type="next" target="filename.xml"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div n="1">
+                    <dateline>Jäg. H. Salisco <placeName>Admont</placeName>  <date>5.I.42</date> </dateline> <lb/>
+                    <salute>Liebe Mutter!</salute> <lb/>
+                <p>
+                    <hi rendition="#et">Anbei etwas Waschmittel, die </hi>
+                    <lb/>leere Schnapsflasche u. schmutzige
+                    <lb/>Wäsche. Um die Barraswäsche bitte
+                    <lb/>ich bald, denn es ist sicher,
+                    <lb/>daß ich um den 21. herum nach
+                    <lb/>Frankreich muß. Was ich an
+                    <lb/>eigener Wäsche brauche, schreibe
+                    <lb/>ich noch. Befördert werde ich
+                    <lb/>nicht. Trotzdem am 12. Besich-
+                    <lb/>tigung ist, haben wir ange-
+                    <lb/>nehmen Dienst. Den ganzen
+                    <lb/>Vormittag Skiefahren, den ganzen
+                    <lb/>Nachmittag angenehmen, unter-
+                    <lb/>haltenden Unterricht.
+                </p>
+            </div>
+            <div n="2">
+                <p>
+                    <lb/>Ganz beerig ist das Skiefahren.
+                    <lb/>Am Sonntag hatte ich ein
+                    <lb/>tolles Erlebnis mit Wiener
+                    <lb/>Mädchen!! Sonst nichts Neues
+                </p> <lb/>
+                <closer>
+                    <salute><hi rendition="#right">Herzliche Grüße</hi></salute><lb/>
+                    <hi rendition="#right">Euer Hans.</hi>
+                </closer><lb/>
+                <postscript> 
+                    <p>Luises u. Alies Brief erhalten</p>   
+                    <p>Math. Salisco</p><lb/>
+                    <p>Landshut (Ndb.)</p>
+                    <p>Stetthaimerstr. 14.</p>
+                </postscript>   
+            </div>
+           
+        </body>
+    </text>    
+</TEI>
+
+

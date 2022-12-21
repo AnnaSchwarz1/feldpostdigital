@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDoc>
+    <md>
+        <docId>-1</docId>
+        <title>1944-11-18</title>
+        <uploadTimestamp>0</uploadTimestamp>
+        <uploaderId>0</uploaderId>
+        <nrOfPages>1</nrOfPages>
+        <localFolder>C:\Users\anna_\Dropbox\Digital Humanities\6. Masterarbeit\MA\Transkribus\1944\1944-11-18</localFolder>
+        <collectionList/>
+    </md>
+    <pageList>
+        <pages>
+            <pageId>-1</pageId>
+            <docId>-1</docId>
+            <pageNr>1</pageNr>
+            <imageId>0</imageId>
+            <url>file:/C:/Users/anna_/Dropbox/Digital%20Humanities/6.%20Masterarbeit/MA/Transkribus/1944/1944-11-18/1944-11-18.jpeg</url>
+            <thumbUrl>file:/C:/Users/anna_/Dropbox/Digital%20Humanities/6.%20Masterarbeit/MA/Transkribus/1944/1944-11-18/thumbs/1944-11-18.jpg</thumbUrl>
+            <imgFileName>1944-11-18.jpeg</imgFileName>
+            <tsList>
+                <transcripts>
+                    <tsId>-1</tsId>
+                    <parentTsId>-1</parentTsId>
+                    <pageId>-1</pageId>
+                    <docId>-1</docId>
+                    <pageNr>1</pageNr>
+                    <localFolder>C:\Users\anna_\Dropbox\Digital Humanities\6. Masterarbeit\MA\Transkribus\1944\1944-11-18</localFolder>
+                    <url>file:/C:/Users/anna_/Dropbox/Digital%20Humanities/6.%20Masterarbeit/MA/Transkribus/1944/1944-11-18/page/1944-11-18.xml</url>
+                    <status>NEW</status>
+                    <userName>LocalDocReader</userName>
+                    <userId>0</userId>
+                    <timestamp>1642617269567</timestamp>
+                    <note></note>
+                    <md5Sum></md5Sum>
+                    <nrOfRegions>0</nrOfRegions>
+                    <nrOfTranscribedRegions>0</nrOfTranscribedRegions>
+                    <nrOfWordsInRegions>0</nrOfWordsInRegions>
+                    <nrOfLines>0</nrOfLines>
+                    <nrOfTranscribedLines>0</nrOfTranscribedLines>
+                    <nrOfWordsInLines>0</nrOfWordsInLines>
+                    <nrOfWords>0</nrOfWords>
+                    <nrOfTranscribedWords>0</nrOfTranscribedWords>
+                </transcripts>
+            </tsList>
+            <width>1675</width>
+            <height>2364</height>
+            <indexed>false</indexed>
+            <imageVersions/>
+        </pages>
+    </pageList>
+</trpDoc>

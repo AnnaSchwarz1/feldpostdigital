@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1946-09-22</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: anna_schwarz@gmx.de</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>22. Sept. 1946.</l>
+					<l>Liebe Mutter, Anneliese u. Luise! </l>
+					<l>Im Juli u. August schrieb ich je eine Karte, die Euch hoffent-</l>
+					<l>lich erreicht hatten. Ich hatte auf beiden etwas ausführlicher geschrieben</l>
+					<l>u. da somit zu rechnen ist, daß sie die Zensur nicht passierten, fasse ich mich</l>
+					<l>heute etwas knapper. In den letzten Monaten geht es mir bedeutend</l>
+					<l>besser, da wir je nach unserer Arbeitsleistung Geld bekommen u. uns</l>
+					<l>zusätzlich etwas zu Essen kaufen können. Sogar 1/9 kg Butter leiste-</l>
+					<l>te ich mir nach so langer Zeit, was königlich schmeckte. - Ich weiß</l>
+					<l>nicht wer wohl sehnlicher aufs Wiedersehn wartet! Ihr... oder Ich!</l>
+					<l>Ich kenne deinen Schmerz u. Deine Sorge lb. Mutter! Darum möch-</l>
+					<l>te ich Dir Eines ans Herz legen. Warte auf mich, aber erwarte mich</l>
+					<l>nicht! Warte - denn ich habe das feste Vertrauen daß ich kommen</l>
+					<l>werde! Erwarte mich aber nicht täglich - denn jeder Tag, der dann</l>
+					<l>die Erfüllung dieser Sehnsucht nicht mit sich bringt ist ein Verlorener</l>
+					<l>u. macht uns fühlbar älter. Ich möchte Dich u. die Schwestern aber</l>
+					<l>noch so anstreffen, wie ich Euch verließ. Daß ich mich änderte in den</l>
+					<l>langen Jahren u. unter den verschiedensten Lebensbedingungen</l>
+					<l>ist ja klar. Wie oft ich mir doch schon unser Wiedersehn in lebendig-</l>
+					<l>ster Form vorstellte! Was wird werden, wenn ich wieder daheim</l>
+					<l>bin?!? - In diesem Gedanken muß ich Euch wieder verlassen.</l>
+					<l>Ich grüße die Heimat mit allen Freunden u. Bekannten, besonders</l>
+					<l>aber Euch aufs Herzlichste. Euer Sohn u. Bruder Hans.</l>
+					<l>Füllt doch bitte die Karte <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>von</hi> bis in alle Ecken! Ich möchte ja soviel</l>
+					<l>wissen u- Ihr schriebt auf den 6 Karten die ich erhielt so kurz!</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+		</body>
+	</text>
+</TEI>

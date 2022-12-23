@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1944-09-08</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: anna_schwarz@gmx.de</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2394' lry='3447'>
+			<graphic url='1944-09-08_1.jpeg' width='2394px' height='3447px'/>
+			<zone points='512,38 2397,18 2397,3414 455,3418' rendition='TextRegion' xml:id='facs_1_region_1644299027378_259'>
+				<zone points='1410,144 1519,135 1642,165 1714,132 2090,131 2093,-2 1412,-7' rendition='Line' xml:id='facs_1_line_1644299074040_272'/>
+				<zone points='982,323 1057,338 1078,321 1125,349 1228,339 1296,374 1481,352 1539,318 1587,332 1588,219 1536,239 1461,218 1379,252 983,224' rendition='Line' xml:id='facs_1_line_1644299084379_277'/>
+				<zone points='1077,539 1457,514 1583,570 1864,489 2404,537 2404,427 2326,389 1078,413' rendition='Line' xml:id='facs_1_line_1644299087411_282'/>
+				<zone points='520,632 2401,622 2401,537 2305,513 1584,569 1450,518 520,536' rendition='Line' xml:id='facs_1_line_1644299093008_287'/>
+				<zone points='500,701 2326,702 2281,603 500,629' rendition='Line' xml:id='facs_1_line_1644299096915_292'/>
+				<zone points='511,788 2364,800 2364,721 2159,707 511,706' rendition='Line' xml:id='facs_1_line_1644299099948_297'/>
+				<zone points='500,914 2349,884 2348,792 499,794' rendition='Line' xml:id='facs_1_line_1644299104154_302'/>
+				<zone points='498,968 1380,1006 1537,956 1629,1015 1698,961 2337,987 2369,912 499,914' rendition='Line' xml:id='facs_1_line_1644299111469_307'/>
+				<zone points='506,1080 2359,1055 2322,976 1652,944 506,971' rendition='Line' xml:id='facs_1_line_1644299115471_312'/>
+				<zone points='491,1147 2364,1182 2389,1069 491,1110' rendition='Line' xml:id='facs_1_line_1644299130194_317'/>
+				<zone points='511,1269 1304,1294 1393,1226 1800,1227 2412,1282 2412,1180 511,1167' rendition='Line' xml:id='facs_1_line_1644299135478_322'/>
+				<zone points='525,1392 1035,1386 1141,1322 1472,1380 1575,1326 2355,1346 2311,1253 526,1273' rendition='Line' xml:id='facs_1_line_1644299141308_327'/>
+				<zone points='507,1466 2405,1468 2404,1356 2055,1324 1679,1382 1121,1325 1013,1390 623,1352 507,1405' rendition='Line' xml:id='facs_1_line_1644299146763_332'/>
+				<zone points='501,1565 1798,1522 2299,1579 2386,1509 2260,1428 2047,1498 1716,1443 502,1476' rendition='Line' xml:id='facs_1_line_1644299156329_337'/>
+				<zone points='487,1662 1161,1618 1305,1668 1400,1616 1493,1674 1571,1626 2293,1666 2292,1571 2203,1540 487,1567' rendition='Line' xml:id='facs_1_line_1644299163155_342'/>
+				<zone points='502,1752 2277,1756 2382,1707 1746,1631 502,1656' rendition='Line' xml:id='facs_1_line_1644299198553_347'/>
+				<zone points='500,1829 2138,1810 2210,1858 2347,1810 2347,1752 500,1760' rendition='Line' xml:id='facs_1_line_1644299204871_352'/>
+				<zone points='506,1910 2370,1929 2370,1864 2149,1811 1707,1868 1376,1809 507,1831' rendition='Line' xml:id='facs_1_line_1644299209188_357'/>
+				<zone points='482,1996 2380,2013 2380,1927 2227,1916 483,1911' rendition='Line' xml:id='facs_1_line_1644299220602_362'/>
+				<zone points='478,2095 2413,2121 2414,2052 2056,2003 1966,2050 480,1989' rendition='Line' xml:id='facs_1_line_1644299226531_367'/>
+				<zone points='471,2201 1828,2163 2074,2223 2255,2207 2297,2142 1190,2066 1015,2133 471,2092' rendition='Line' xml:id='facs_1_line_1644299230860_372'/>
+				<zone points='467,2266 2409,2302 2360,2179 466,2207' rendition='Line' xml:id='facs_1_line_1644299239880_377'/>
+				<zone points='490,2387 2405,2382 2241,2261 1944,2317 1746,2250 491,2267' rendition='Line' xml:id='facs_1_line_1644299245678_382'/>
+				<zone points='481,2467 1981,2485 2060,2437 2351,2493 2351,2373 2201,2359 2054,2410 1921,2361 481,2389' rendition='Line' xml:id='facs_1_line_1644299251633_387'/>
+				<zone points='473,2584 2101,2557 2185,2620 2404,2609 2406,2472 474,2468' rendition='Line' xml:id='facs_1_line_1644299256729_392'/>
+				<zone points='476,2651 1386,2635 2092,2705 2257,2670 2258,2619 1548,2559 477,2579' rendition='Line' xml:id='facs_1_line_1644299261387_397'/>
+				<zone points='465,2751 2277,2763 2333,2647 1778,2699 1310,2635 466,2652' rendition='Line' xml:id='facs_1_line_1644299267225_402'/>
+				<zone points='470,2829 889,2880 1003,2814 1834,2820 2287,2917 2324,2812 1409,2721 1237,2775 472,2747' rendition='Line' xml:id='facs_1_line_1644299283147_407'/>
+				<zone points='472,2951 582,2905 2284,2951 2285,2896 2037,2846 474,2841' rendition='Line' xml:id='facs_1_line_1644299294244_412'/>
+				<zone points='476,3019 2247,3054 2367,2949 476,2950' rendition='Line' xml:id='facs_1_line_1644299299105_417'/>
+				<zone points='481,3142 618,3082 1681,3151 2167,3110 2258,3162 2280,3057 482,3022' rendition='Line' xml:id='facs_1_line_1644299302825_422'/>
+				<zone points='462,3206 2237,3235 2237,3153 2046,3118 463,3134' rendition='Line' xml:id='facs_1_line_1644299306592_427'/>
+				<zone points='449,3305 2374,3296 2250,3214 1509,3188 449,3240' rendition='Line' xml:id='facs_1_line_1644299313282_432'/>
+				<zone points='452,3423 2366,3420 2366,3304 452,3293' rendition='Line' xml:id='facs_1_line_1644299323082_437'/>
+			</zone>
+			<zone points='303,509 516,485 455,3398 303,3398' rendition='TextRegion' xml:id='facs_1_region_1644299051283_264'>
+				<zone points='444,546 379,2576 453,3316 505,547' rendition='Line' xml:id='facs_1_line_1644299357604_443'/>
+				<zone points='360,530 321,2710 335,3076 410,3078 435,531' rendition='Line' xml:id='facs_1_line_1644299370671_448'/>
+				<zone points='296,587 338,851 284,1182 339,1316 316,2161 371,2107 381,589' rendition='Line' xml:id='facs_1_line_1644299375016_453'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2232' lry='835'>
+			<graphic url='1944-09-08_2.jpeg' width='2232px' height='835px'/>
+			<zone points='27,0 27,798 2229,798 2229,0' rendition='TextRegion' xml:id='facs_2_r1'>
+				<zone points='248,147 721,126 876,196 1004,136 2113,156 2091,56 966,100 249,45' rendition='Line' xml:id='facs_2_r1l2'/>
+				<zone points='248,256 2224,258 2242,166 247,147' rendition='Line' xml:id='facs_2_r1l3'/>
+				<zone points='252,333 2241,354 2241,255 2178,240 252,257' rendition='Line' xml:id='facs_2_r1l4'/>
+				<zone points='14,425 1901,469 2074,439 2075,325 1927,388 1472,341 14,394' rendition='Line' xml:id='facs_2_r1l5'/>
+				<zone points='264,541 1029,515 1322,578 1462,518 1713,581 1805,515 2133,561 2243,526 2243,457 264,460' rendition='Line' xml:id='facs_2_r1l6'/>
+				<zone points='261,614 1444,603 1799,671 1892,609 2196,669 2238,606 1929,530 1717,581 1618,529 262,540' rendition='Line' xml:id='facs_2_r1l7'/>
+				<zone points='243,702 660,754 1485,682 2237,755 2238,661 1951,625 244,628' rendition='Line' xml:id='facs_2_r1l8'/>
+				<zone points='236,788 818,825 1744,792 1483,690 1399,733 1269,696 1177,736 877,693 732,733 236,714' rendition='Line' xml:id='facs_2_r1l9'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='2110' lry='939'>
+			<graphic url='1944-09-08_3.jpeg' width='2110px' height='939px'/>
+			<zone points='116,64 116,919 2102,919 2102,64' rendition='TextRegion' xml:id='facs_3_r1'>
+				<zone points='166,120 1398,117 1454,165 1765,100 1998,160 2073,137 2072,35 165,62' rendition='Line' xml:id='facs_3_r1l1'/>
+				<zone points='156,231 1081,207 1173,266 1938,209 1758,140 1105,181 157,139' rendition='Line' xml:id='facs_3_r1l2'/>
+				<zone points='152,298 904,307 1017,362 2114,316 2115,239 2019,211 1242,272 1087,209 1001,264 725,205 153,230' rendition='Line' xml:id='facs_3_r1l3'/>
+				<zone points='151,389 2035,433 2064,332 1641,382 1518,326 152,321' rendition='Line' xml:id='facs_3_r1l4'/>
+				<zone points='141,469 1656,561 2106,509 2108,431 1964,474 143,406' rendition='Line' xml:id='facs_3_r1l5'/>
+				<zone points='126,559 1847,639 2044,603 2046,506 1662,558 1038,541 892,482 805,540 540,474 127,496' rendition='Line' xml:id='facs_3_r1l6'/>
+				<zone points='112,644 746,712 958,659 2016,687 2017,636 1751,600 113,593' rendition='Line' xml:id='facs_3_r1l7'/>
+				<zone points='107,733 1497,743 1782,806 2060,771 2061,717 108,672' rendition='Line' xml:id='facs_3_r1l8'/>
+				<zone points='122,805 1756,863 1999,846 2001,790 124,734' rendition='Line' xml:id='facs_3_r1l9'/>
+				<zone points='104,931 1951,936 1906,848 1524,881 106,805' rendition='Line' xml:id='facs_3_line_1644299545025_492'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_4'>
+		<surface ulx='0' uly='0' lrx='1714' lry='2471'>
+			<graphic url='1944-09-08_4.jpeg' width='1714px' height='2471px'/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1644299027378_259'>
+				<lg>
+					<l facs='#facs_1_line_1644299074040_272'>Litauen. 8. 9. 44. </l>
+					<l facs='#facs_1_line_1644299084379_277'>Meine Lieben!</l>
+					<l facs='#facs_1_line_1644299087411_282'>Mutters Brief vom 21. 8. u. Alies vom</l>
+					<l facs='#facs_1_line_1644299093008_287'>22. 8. habe ich erhalten. Wer der Kraus Franzl ist</l>
+					<l facs='#facs_1_line_1644299096915_292'>der da unterschrieben hat, weiß ich selbst</l>
+					<l facs='#facs_1_line_1644299099948_297'>nicht. Die Neuigkeiten über die Landshuter</l>
+					<l facs='#facs_1_line_1644299104154_302'>Mädchen (Lissi, Resi,)  sind verblüffend.</l>
+					<l facs='#facs_1_line_1644299111469_307'>Da hätte ich die Belehrungen u. Erzählun-</l>
+					<l facs='#facs_1_line_1644299115471_312'>gen vom Weiberl hören mögen, als sie</l>
+					<l facs='#facs_1_line_1644299130194_317'>das hörte. - Meine Lage hat sich ver-</l>
+					<l facs='#facs_1_line_1644299135478_322'>schlechtert!! Bis gestern war ich bei den</l>
+					<l facs='#facs_1_line_1644299141308_327'>Granatwerfern u. lag in einem Wäld-</l>
+					<l facs='#facs_1_line_1644299146763_332'>chen ungefähr 1 1/2 km vom Russen weg.</l>
+					<l facs='#facs_1_line_1644299156329_337'>Bei Nacht mußte ich eine Stunde Pos-</l>
+					<l facs='#facs_1_line_1644299163155_342'>ten stehen u. bei Tag konnte man</l>
+					<l facs='#facs_1_line_1644299198553_347'>sich wenigstens im Wäldchen ein wen-</l>
+					<l facs='#facs_1_line_1644299204871_352'>nig ausgehen. Aber jetzt bin ich bei</l>
+					<l facs='#facs_1_line_1644299209188_357'>einer LMG Bedienung (Engstler Ottl kann</l>
+					<l facs='#facs_1_line_1644299220602_362'>Euch davon schon was erzählen!) Bei Nacht</l>
+					<l facs='#facs_1_line_1644299226531_367'>bauen wir zu dritt unsere Stellung aus</l>
+					<l facs='#facs_1_line_1644299230860_372'>u. am Tage schlafen wir in einem</l>
+					<l facs='#facs_1_line_1644299239880_377'>ehemals russ. Graben. Wir liegen mitten</l>
+					<l facs='#facs_1_line_1644299245678_382'>auf freiem Felde u. können den Kopf keine</l>
+					<l facs='#facs_1_line_1644299251633_387'>30cm herausstrecken da wir bloß 300m</l>
+					<l facs='#facs_1_line_1644299256729_392'>von Iwans B Stelle weg sind. Der Graben</l>
+					<l facs='#facs_1_line_1644299261387_397'>ist 30cm breit u. 1/2 m tief. Und da</l>
+					<l facs='#facs_1_line_1644299267225_402'>krabbeln wir auf den Knien rum wie</l>
+					<l facs='#facs_1_line_1644299283147_407'>Maulwürfe. Ich schreibe auch in einer</l>
+					<l facs='#facs_1_line_1644299294244_412'>ganz unmöglichen Stellung. Heute</l>
+					<l facs='#facs_1_line_1644299299105_417'>Nacht werden wir uns ein tieferes u.</l>
+					<l facs='#facs_1_line_1644299302825_422'>Größeres Loch bauen, daß man <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>sich</hi></l>
+					<l facs='#facs_1_line_1644299306592_427'>beim Schlafen wenigsten die Knie</l>
+					<l facs='#facs_1_line_1644299313282_432'>anziehen kann. Bei Nacht haben wir</l>
+					<l facs='#facs_1_line_1644299323082_437'>also bloß Anschluß mit der übrigen Welt.</l>
+				</lg>
+			</p>
+			<p facs='#facs_1_region_1644299051283_264'>
+				<lg>
+					<l facs='#facs_1_line_1644299357604_443'>Jetzt leg ich noch ein &quot;Ei&quot; (Scheißen muß ich auf deutsch gesagt), wirf es mit dem </l>
+					<l facs='#facs_1_line_1644299370671_448'>Spaten über den Grabenrand u. dann wird weiter geschlafen bis es dunkel wird.</l>
+					<l facs='#facs_1_line_1644299375016_453'>Es grüßt Euch herzlichst Euer dreckiges Büberl.</l>
+				</lg>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_r1'>
+				<lg>
+					<l facs='#facs_2_r1l2'>Das ist unangenehm wenn mal einer</l>
+					<l facs='#facs_2_r1l3'>verwundet wird. Am Tage schießt zwar der</l>
+					<l facs='#facs_2_r1l4'>Russe nicht viel u. auf uns gleich gar nicht</l>
+					<l facs='#facs_2_r1l5'>weil er uns noch nicht erkannt hat.</l>
+					<l facs='#facs_2_r1l6'>Wir haben auch den Befehl bloß zu schießen</l>
+					<l facs='#facs_2_r1l7'>wenn er durchbricht. Am Tage gibts auch</l>
+					<l facs='#facs_2_r1l8'>kein Stiften gehen übers freie Feld, sonst</l>
+					<l facs='#facs_2_r1l9'>knallt er uns ab wie die Hasen.</l>
+				</lg>
+			</p>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_r1'>
+				<lg>
+					<l facs='#facs_3_r1l1'>Heute um 1/2 5h beim Morgengrauen griff</l>
+					<l facs='#facs_3_r1l2'>Iwan links von uns (500m) an. Wir</l>
+					<l facs='#facs_3_r1l3'>standen schon schußbereit am MG. Mit Ner-</l>
+					<l facs='#facs_3_r1l4'>ven auf Hochspannung warteten wir, die</l>
+					<l facs='#facs_3_r1l5'>Hand am Abzug Mit Flammenwerfern wurde</l>
+					<l facs='#facs_3_r1l6'>der Angriff abgeschlagen. Ein richtiger Zug aus</l>
+					<l facs='#facs_3_r1l7'>unserer Schnapsflasche, ein Fluch über den</l>
+					<l facs='#facs_3_r1l8'>Regen, der uns bei dem Lehmboden im Graben</l>
+					<l facs='#facs_3_r1l9'>zu Schweinen macht, wir wickeln uns in</l>
+					<l facs='#facs_3_line_1644299545025_492'>Decke u. Zeltplane ein u. man schläft.</l>
+				</lg>
+			</p>
+			<pb facs='#facs_4' n='4'/>
+		</body>
+	</text>
+</TEI>

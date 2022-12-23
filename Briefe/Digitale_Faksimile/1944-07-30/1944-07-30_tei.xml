@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1944-07-30</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: anna_schwarz@gmx.de</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='1255' lry='1617'>
+			<graphic url='1944-07-30_1.jpeg' width='1255px' height='1617px'/>
+			<zone points='22,8 1242,8 1242,1589 22,1589' rendition='TextRegion' xml:id='facs_1_region_1644327109416_17'>
+				<zone points='388,185 507,164 663,188 733,147 1130,173 1131,52 1031,51 979,12 851,-5 389,29' rendition='Line' xml:id='facs_1_line_1644327115347_20'/>
+				<zone points='380,341 517,322 666,360 694,340 755,359 951,328 999,340 999,272 943,289 851,243 773,250 726,224 671,252 540,213 379,235' rendition='Line' xml:id='facs_1_line_1644327118173_25'/>
+				<zone points='358,527 441,499 518,535 714,502 1196,513 1196,458 1116,467 936,407 883,428 358,418' rendition='Line' xml:id='facs_1_line_1644327122448_30'/>
+				<zone points='36,622 378,615 448,662 608,669 729,625 1198,646 1231,635 1231,524 570,516 326,578 36,562' rendition='Line' xml:id='facs_1_line_1644327128364_35'/>
+				<zone points='74,739 1210,751 1237,636 757,705 265,636 74,659' rendition='Line' xml:id='facs_1_line_1644327133508_40'/>
+				<zone points='66,889 193,853 627,893 764,847 1149,865 1148,759 673,752 610,798 66,811' rendition='Line' xml:id='facs_1_line_1644327138151_45'/>
+				<zone points='60,965 553,962 742,1008 826,971 1121,975 1121,917 874,907 814,940 572,872 360,864 60,920' rendition='Line' xml:id='facs_1_line_1644327142466_50'/>
+				<zone points='69,1147 230,1092 425,1133 517,1101 627,1160 846,1085 1121,1118 1230,1088 1230,1006 930,998 699,1061 228,1018 69,1048' rendition='Line' xml:id='facs_1_line_1644327148389_55'/>
+				<zone points='65,1224 1126,1222 1168,1215 1169,1094 824,1124 769,1167 437,1159 366,1113 202,1166 132,1121 65,1140' rendition='Line' xml:id='facs_1_line_1644327153704_60'/>
+				<zone points='72,1347 947,1314 1238,1357 1239,1268 1013,1272 878,1213 72,1247' rendition='Line' xml:id='facs_1_line_1644327162068_65'/>
+				<zone points='74,1440 1178,1460 1230,1446 1231,1391 1108,1356 917,1409 666,1393 356,1331 75,1362' rendition='Line' xml:id='facs_1_line_1644327167695_70'/>
+				<zone points='79,1572 484,1523 1082,1532 1149,1480 982,1448 857,1483 566,1452 472,1484 386,1449 78,1477' rendition='Line' xml:id='facs_1_line_1644327172572_75'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='1271' lry='1654'>
+			<graphic url='1944-07-30_2.jpeg' width='1271px' height='1654px'/>
+			<zone points='35,48 1250,48 1250,1619 35,1619' rendition='TextRegion' xml:id='facs_2_region_1644327205367_83'>
+				<zone points='89,185 370,158 799,224 1000,172 1067,221 1237,218 1262,100 1018,33 812,55 658,4 92,-2' rendition='Line' xml:id='facs_2_line_1644327212384_86'/>
+				<zone points='87,299 344,298 425,346 584,293 1132,324 1218,313 1218,249 1010,257 948,219 884,255 509,260 188,179 86,205' rendition='Line' xml:id='facs_2_line_1644327217059_91'/>
+				<zone points='74,444 167,410 515,448 710,411 1081,447 1211,414 1211,361 932,374 783,325 469,369 73,315' rendition='Line' xml:id='facs_2_line_1644327221014_96'/>
+				<zone points='69,570 248,605 383,529 1119,546 1118,456 728,498 136,468 68,493' rendition='Line' xml:id='facs_2_line_1644327225218_101'/>
+				<zone points='80,679 445,653 586,696 657,660 1128,656 1128,564 814,606 704,548 554,607 280,610 80,554' rendition='Line' xml:id='facs_2_line_1644327228969_106'/>
+				<zone points='55,777 214,807 365,766 446,814 570,770 753,813 1068,763 1253,827 1254,645 1071,693 760,665 435,720 56,673' rendition='Line' xml:id='facs_2_line_1644327235144_111'/>
+				<zone points='81,887 1179,901 1179,797 81,814' rendition='Line' xml:id='facs_2_line_1644327239786_116'/>
+				<zone points='87,1029 455,1010 598,1077 687,1009 746,1055 830,1006 1172,998 1156,918 884,969 721,921 86,923' rendition='Line' xml:id='facs_2_line_1644327244881_121'/>
+				<zone points='78,1133 871,1117 996,1183 1245,1185 1230,1060 839,1027 754,1062 664,1021 595,1080 455,1031 78,1046' rendition='Line' xml:id='facs_2_line_1644327249867_126'/>
+				<zone points='63,1259 487,1241 539,1287 588,1248 832,1233 1199,1262 1199,1182 906,1196 746,1135 493,1128 349,1201 63,1165' rendition='Line' xml:id='facs_2_line_1644327259550_131'/>
+				<zone points='80,1369 152,1378 165,1391 255,1367 280,1370 297,1355 320,1372 348,1371 351,1254 284,1273 214,1266 183,1278 165,1270 153,1279 82,1277' rendition='Line' xml:id='facs_2_line_1644327262644_136'/>
+				<zone points='147,1501 1118,1469 1118,1381 1039,1372 790,1400 548,1366 329,1399 147,1381' rendition='Line' xml:id='facs_2_line_1644327265505_141'/>
+				<zone points='90,1653 1177,1635 1177,1538 1106,1546 1035,1502 531,1503 353,1550 90,1495' rendition='Line' xml:id='facs_2_line_1644327271163_146'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='1234' lry='1631'>
+			<graphic url='1944-07-30_3.jpeg' width='1234px' height='1631px'/>
+			<zone points='35,79 1227,79 1227,1621 35,1621' rendition='TextRegion' xml:id='facs_3_region_1644327284769_154'>
+				<zone points='99,161 994,164 994,214 99,211' rendition='Line' xml:id='facs_3_line_1644327288504_157'/>
+				<zone points='83,282 1053,267 1054,317 84,332' rendition='Line' xml:id='facs_3_line_1644327291818_162'/>
+				<zone points='96,452 406,462 1218,443 1219,493 406,512 95,502' rendition='Line' xml:id='facs_3_line_1644327295630_167'/>
+				<zone points='82,562 971,570 971,620 82,612' rendition='Line' xml:id='facs_3_line_1644328399627_172'/>
+				<zone points='69,689 1193,684 1193,734 69,739' rendition='Line' xml:id='facs_3_line_1644328402706_177'/>
+				<zone points='78,801 1064,805 1064,855 78,851' rendition='Line' xml:id='facs_3_line_1644328405755_182'/>
+				<zone points='72,922 1057,911 1058,961 73,972' rendition='Line' xml:id='facs_3_line_1644328409725_187'/>
+				<zone points='56,1040 1170,1040 1170,1090 56,1090' rendition='Line' xml:id='facs_3_line_1644328412945_192'/>
+				<zone points='59,1159 998,1154 998,1204 59,1209' rendition='Line' xml:id='facs_3_line_1644328416634_197'/>
+				<zone points='72,1277 466,1265 1212,1265 1212,1315 467,1315 73,1327' rendition='Line' xml:id='facs_3_line_1644328421118_202'/>
+				<zone points='46,1391 214,1377 358,1385 1193,1387 1193,1437 357,1435 215,1427 50,1441' rendition='Line' xml:id='facs_3_line_1644328428200_207'/>
+				<zone points='66,1491 282,1504 524,1504 1208,1502 1208,1552 524,1554 281,1554 63,1541' rendition='Line' xml:id='facs_3_line_1644328434484_212'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_4'>
+		<surface ulx='0' uly='0' lrx='1245' lry='1636'>
+			<graphic url='1944-07-30_4.jpeg' width='1245px' height='1636px'/>
+			<zone points='18,14 1238,14 1238,1608 18,1608' rendition='TextRegion' xml:id='facs_4_region_1644328445506_220'>
+				<zone points='99,108 1106,117 1106,167 99,158' rendition='Line' xml:id='facs_4_line_1644328450382_223'/>
+				<zone points='91,231 631,246 698,236 1183,231 1183,281 702,286 634,296 90,281' rendition='Line' xml:id='facs_4_line_1644328456525_228'/>
+				<zone points='63,341 527,339 900,350 899,400 526,389 63,391' rendition='Line' xml:id='facs_4_line_1644328461495_233'/>
+				<zone points='92,462 1189,466 1189,516 92,512' rendition='Line' xml:id='facs_4_line_1644328466278_238'/>
+				<zone points='86,579 1210,589 1210,639 86,629' rendition='Line' xml:id='facs_4_line_1644328471921_243'/>
+				<zone points='63,695 1073,701 1073,751 63,745' rendition='Line' xml:id='facs_4_line_1644328476360_248'/>
+				<zone points='61,820 1214,823 1268,868 1235,905 1196,870 61,870' rendition='Line' xml:id='facs_4_line_1644328481518_253'/>
+				<zone points='56,932 1166,943 1166,993 56,982' rendition='Line' xml:id='facs_4_line_1644328486254_258'/>
+				<zone points='52,1044 363,1044 1239,1057 1238,1107 363,1094 52,1094' rendition='Line' xml:id='facs_4_line_1644328491600_263'/>
+				<zone points='65,1152 1036,1146 1036,1196 65,1202' rendition='Line' xml:id='facs_4_line_1644328495845_268'/>
+				<zone points='319,1248 681,1248 681,1298 319,1298' rendition='Line' xml:id='facs_4_line_1644328498314_273'/>
+				<zone points='61,1334 1219,1339 1219,1389 61,1384' rendition='Line' xml:id='facs_4_line_1644328501519_278'/>
+				<zone points='72,1428 1237,1447 1236,1497 71,1478' rendition='Line' xml:id='facs_4_line_1644328504599_283'/>
+				<zone points='68,1506 1023,1529 1022,1579 67,1556' rendition='Line' xml:id='facs_4_line_1644328507209_288'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_5'>
+		<surface ulx='0' uly='0' lrx='1232' lry='1628'>
+			<graphic url='1944-07-30_5.jpeg' width='1232px' height='1628px'/>
+			<zone points='25,73 1217,73 1217,1542 25,1542' rendition='TextRegion' xml:id='facs_5_region_1644328520117_296'>
+				<zone points='130,149 1174,151 1174,201 130,199' rendition='Line' xml:id='facs_5_line_1644328524932_299'/>
+				<zone points='63,269 1216,261 1216,311 63,319' rendition='Line' xml:id='facs_5_line_1644328528308_304'/>
+				<zone points='77,386 1209,373 1210,423 78,436' rendition='Line' xml:id='facs_5_line_1644328531028_309'/>
+				<zone points='78,500 1144,502 1144,552 78,550' rendition='Line' xml:id='facs_5_line_1644328533106_314'/>
+				<zone points='59,631 1085,621 1085,671 59,681' rendition='Line' xml:id='facs_5_line_1644328535717_319'/>
+				<zone points='66,741 1139,725 1140,775 67,791' rendition='Line' xml:id='facs_5_line_1644328538764_324'/>
+				<zone points='58,850 1017,854 1017,904 58,900' rendition='Line' xml:id='facs_5_line_1644328541750_329'/>
+				<zone points='48,970 1147,970 1147,1020 48,1020' rendition='Line' xml:id='facs_5_line_1644328544485_334'/>
+				<zone points='66,1091 553,1080 1164,1074 1164,1124 554,1130 67,1141' rendition='Line' xml:id='facs_5_line_1644328547721_339'/>
+				<zone points='48,1203 954,1203 1202,1205 1202,1255 954,1253 48,1253' rendition='Line' xml:id='facs_5_line_1644328550722_344'/>
+				<zone points='41,1326 465,1320 1168,1319 1168,1369 465,1370 42,1376' rendition='Line' xml:id='facs_5_line_1644328554426_349'/>
+				<zone points='37,1434 855,1438 855,1488 37,1484' rendition='Line' xml:id='facs_5_line_1644328556943_354'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1644327109416_17'>
+				<lg>
+					<l facs='#facs_1_line_1644327115347_20'>Im Felde 30. 7. 44.</l>
+					<l facs='#facs_1_line_1644327118173_25'>Meine Lieben!</l>
+					<l facs='#facs_1_line_1644327122448_30'>Nach verschiedenen</l>
+					<l facs='#facs_1_line_1644327128364_35'>Kreuz- u. Querfahrten lande-</l>
+					<l facs='#facs_1_line_1644327133508_40'>te ich bei einer vernichte-</l>
+					<l facs='#facs_1_line_1644327138151_45'>ten Division, als <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>A</hi> Ersatz</l>
+					<l facs='#facs_1_line_1644327142466_50'>oder Auffüllung. Einen</l>
+					<l facs='#facs_1_line_1644327148389_55'>großen Sprung machte ich</l>
+					<l facs='#facs_1_line_1644327153704_60'>bei der neuen Einheit!</l>
+					<l facs='#facs_1_line_1644327162068_65'>Ich bin nicht mehr bei einer</l>
+					<l facs='#facs_1_line_1644327167695_70'>Schützenkompanie, sondern</l>
+					<l facs='#facs_1_line_1644327172572_75'>als Nachrichtenmann bei</l>
+				</lg>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1644327205367_83'>
+				<lg>
+					<l facs='#facs_2_line_1644327212384_86'>einer Granatwerferkompanie.</l>
+					<l facs='#facs_2_line_1644327217059_91'>Seit 2 Tagen bin ich ein-</l>
+					<l facs='#facs_2_line_1644327221014_96'>gesetzt u. wir lösen uns</l>
+					<l facs='#facs_2_line_1644327225218_101'>langsam vom Feind,</l>
+					<l facs='#facs_2_line_1644327228969_106'>der uns auf kürzeste</l>
+					<l facs='#facs_2_line_1644327235144_111'>Entfernung heftig nachdrängte.</l>
+					<l facs='#facs_2_line_1644327239786_116'>Links von uns sind russ.</l>
+					<l facs='#facs_2_line_1644327244881_121'>Panzer durchgestoßen, rechts</l>
+					<l facs='#facs_2_line_1644327249867_126'>ist eine Frontlücke. Langsam</l>
+					<l facs='#facs_2_line_1644327259550_131'>aber sicher geht&apos;s heim ins</l>
+					<l facs='#facs_2_line_1644327262644_136'>Reich.</l>
+					<l facs='#facs_2_line_1644327265505_141'>Schreiben kann ich</l>
+					<l facs='#facs_2_line_1644327271163_146'>sehr selten, denn die</l>
+				</lg>
+			</p>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_region_1644327284769_154'>
+				<lg>
+					<l facs='#facs_3_line_1644327288504_157'>Post geht mal alle</l>
+					<l facs='#facs_3_line_1644327291818_162'>heiligen Zeiten weg.</l>
+					<l facs='#facs_3_line_1644327295630_167'>Aber eine eiserne Ruhe</l>
+					<l facs='#facs_3_line_1644328399627_172'>hab ich! Gestern</l>
+					<l facs='#facs_3_line_1644328402706_177'>lag schweres Arifeuer auf</l>
+					<l facs='#facs_3_line_1644328405755_182'>uns. Die Stalinorgel u. </l>
+					<l facs='#facs_3_line_1644328409725_187'>ganz schwere Brocken.</l>
+					<l facs='#facs_3_line_1644328412945_192'>Hat mich aber nicht ein</l>
+					<l facs='#facs_3_line_1644328416634_197'>bißchen aufgeregt. -</l>
+					<l facs='#facs_3_line_1644328421118_202'>Die Gegend die wir hier</l>
+					<l facs='#facs_3_line_1644328428200_207'>durchkämpfen ist sehr</l>
+					<l facs='#facs_3_line_1644328434484_212'>fruchtbar. Gärten, Kühe,</l>
+				</lg>
+			</p>
+			<pb facs='#facs_4' n='4'/>
+			<p facs='#facs_4_region_1644328445506_220'>
+				<lg>
+					<l facs='#facs_4_line_1644328450382_223'>Schweine, Obst, alles</l>
+					<l facs='#facs_4_line_1644328456525_228'>was man sich wünscht</l>
+					<l facs='#facs_4_line_1644328461495_233'>haben wir hier. </l>
+					<l facs='#facs_4_line_1644328466278_238'>Der Krieg ist hier ganz</l>
+					<l facs='#facs_4_line_1644328471921_243'>anders als in Finnland.</l>
+					<l facs='#facs_4_line_1644328476360_248'>Was Gelände anbetrifft</l>
+					<l facs='#facs_4_line_1644328481518_253'>schöner, aber was Marschieren</l>
+					<l facs='#facs_4_line_1644328486254_258'>anbetrifft härter. So sieht</l>
+					<l facs='#facs_4_line_1644328491600_263'>der Krieg in Wirklichkeit aus!</l>
+					<l facs='#facs_4_line_1644328495845_268'>Meine neue Nummer:</l>
+					<l facs='#facs_4_line_1644328498314_273'>06024/E</l>
+					<l facs='#facs_4_line_1644328501519_278'>Grüßt mir alle Verwandten u. </l>
+					<l facs='#facs_4_line_1644328504599_283'>Bekannten. Aufs herzlichste</l>
+					<l facs='#facs_4_line_1644328507209_288'>grüßt Euch Euer Hans. </l>
+				</lg>
+			</p>
+			<pb facs='#facs_5' n='5'/>
+			<p facs='#facs_5_region_1644328520117_296'>
+				<lg>
+					<l facs='#facs_5_line_1644328524932_299'>Seid so gut u. schreibt</l>
+					<l facs='#facs_5_line_1644328528308_304'>doch mal der Fam. Goth</l>
+					<l facs='#facs_5_line_1644328531028_309'>nach Ingolstadt (Herder-</l>
+					<l facs='#facs_5_line_1644328533106_314'>str.) <hi rend='underlined:true; fontSize:0.0; kerning:0;'>wann</hi> u. was der</l>
+					<l facs='#facs_5_line_1644328535717_319'>Sepp <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>zum</hi> das letzte</l>
+					<l facs='#facs_5_line_1644328538764_324'>mal schrieb u. wie es</l>
+					<l facs='#facs_5_line_1644328541750_329'>ihm geht. Bei un s</l>
+					<l facs='#facs_5_line_1644328544485_334'>liefen nämlich ganz </l>
+					<l facs='#facs_5_line_1644328547721_339'>wilde Gerüchte herum</l>
+					<l facs='#facs_5_line_1644328550722_344'>von da oben. Fragt auch</l>
+					<l facs='#facs_5_line_1644328554426_349'>ob sie was wissen vom </l>
+					<l facs='#facs_5_line_1644328556943_354'>Stegmair Hans. </l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>
